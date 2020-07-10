@@ -1,2 +1,2 @@
 # hello-world
-Aprendendo a iusar 
+Aprendendo a usaro Github
